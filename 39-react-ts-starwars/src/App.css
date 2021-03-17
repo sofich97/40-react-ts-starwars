@@ -1,0 +1,36 @@
+/*header*/
+
+header {
+    background-color: rgba(60, 69, 67, 0.6);
+    border-radius: 1rem 1rem 0 0;
+}
+
+.btn-danger {
+    color: goldenrod;
+    background-color: rgba(284, 3, 35, 0.5);
+}
+
+header h1 {
+    letter-spacing: 0.2em;
+}
+
+/*main*/
+
+.float-right.border {
+    border-color: goldenrod !important;
+    border-bottom-left-radius: 1rem;
+    border-bottom-right-radius: 1rem;
+}
+
+
+/*footer*/
+
+footer {
+    background-color: rgba(60, 69, 67, 0.6);
+    border-radius: 0 0 1rem 1rem;
+    height: 5em;
+}
+
+footer .btn {
+    font-size: 0.8em;
+}
